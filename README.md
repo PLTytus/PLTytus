@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming of course... But also movies (mainly MCU) and gaming, GTA is my passion.
 - :earth_africa: Visit my website: [GTAWeb.eu](https://gtaweb.eu)
 - :construction_worker: Currently working in an online store [DVDMAX.PL](https://www.dvdmax.pl/)
-- 📫 How to reach me:
-  - pltytus@gtaweb.eu
+- 📧 How to reach me: pltytus@gtaweb.eu
+- 🕸 More:
   - [LinkedIn](https://www.linkedin.com/in/pltytus/)
   - [Bitbucket](https://bitbucket.org/PLTytus/)
   - [Twitter](https://twitter.com/PLTytus)
