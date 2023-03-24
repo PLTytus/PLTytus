@@ -3,10 +3,5 @@
 - :earth_africa: Visit my website: [GTAWeb.eu](https://gtaweb.eu)
 - :construction_worker: Currently working in an online store [DVDMAX.PL](https://www.dvdmax.pl/)
 - 📧 How to reach me: pltytus@gtaweb.eu
-- 🕸 More:
-  - [LinkedIn](https://www.linkedin.com/in/pltytus/)
-  - [Bitbucket](https://bitbucket.org/PLTytus/)
-  - [Twitter](https://twitter.com/PLTytus)
-  - [GTAForums](https://gtaforums.com/profile/1124240-pltytus/)
-  - [YouTube](https://www.youtube.com/user/PLTytus)
-  - [Buy Me A Coffe](https://www.buymeacoffee.com/pltytus)
+- ☕ Support me: [Buy Me A Coffe](https://www.buymeacoffee.com/pltytus)
+- 🕸 More: [LinkedIn](https://www.linkedin.com/in/pltytus/), [Bitbucket](https://bitbucket.org/PLTytus/), [Twitter](https://twitter.com/PLTytus), [GTAForums](https://gtaforums.com/profile/1124240-pltytus/), [YouTube](https://www.youtube.com/user/PLTytus)
