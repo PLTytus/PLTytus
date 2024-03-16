@@ -4,4 +4,4 @@
 - :construction_worker: Currently working in an online store [DVDMAX.PL](https://www.dvdmax.pl/)
 - 📧 How to reach me: pltytus@gtaweb.eu
 - ☕ Support me: [Buy Me A Coffe](https://www.buymeacoffee.com/pltytus)
-- 🕸 More: [LinkedIn](https://www.linkedin.com/in/pltytus/), [Bitbucket](https://bitbucket.org/PLTytus/workspace/repositories), [X (Twitter)](https://x.com/PLTytus), [GTAForums](https://gtaforums.com/profile/1124240-pltytus/), [YouTube](https://www.youtube.com/user/PLTytus)
+- 🕸 More: [PLTytus.eu](https://pltytus.eu?src=github)
