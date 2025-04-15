@@ -3,6 +3,6 @@
 - :earth_africa: Visit my website: [GTAWeb.eu](https://gtaweb.eu)
 - :construction_worker: Currently working in an online store [DVDMAX.PL](https://www.dvdmax.pl/)
 - 📧 How to reach me: pltytus@gtaweb.eu
-- ☕ Support me: [Buy Me A Coffe](https://www.buymeacoffee.com/pltytus)
+- ☕ Support me: [Buy Me A Coffee](https://www.buymeacoffee.com/pltytus)
 - 💡More projects: [GitLab](https://gitlab.com/PLTytus), [BitBucket](https://bitbucket.org/PLTytus)
 - 🕸 More: [PLTytus.eu](https://pltytus.eu?src=github)
